@@ -1,0 +1,17 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "Practicando con el modulo Express de nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js",
+    "nodemon" : "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Robles",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
