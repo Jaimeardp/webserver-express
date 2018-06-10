@@ -46,3 +46,7 @@ app.listen(port, () => {
 
 // npm start
 // npm run nodemon
+
+//Iniciar repositorio
+// Subir los cambios
+//logearse con heroku
